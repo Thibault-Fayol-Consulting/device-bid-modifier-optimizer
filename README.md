@@ -1,0 +1,12 @@
+# device-bid-modifier-optimizer
+
+Google Ads Script for SMBs: Adjust mobile, desktop, and tablet modifiers based on ROAS.
+
+## 🇬🇧 English
+To use this script, copy `main_en.gs` into your Google Ads account.
+
+## 🇫🇷 Français
+Copiez le contenu de `main_fr.gs` dans votre compte.
+
+---
+**Author:** Thibault Fayol - Consultant SEA
